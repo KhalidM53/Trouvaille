@@ -28,7 +28,7 @@ Javascript, JQuery, Ajax, HTML5, CSS3
 
 # Authors/Contributers 
 
-Lucas Gonzalez lucasberatudgonzalez@gmail.com - https://github.com/Lucas-bit - https://lucas-bit.github.io/Nice-Portfolio/
+Lucas Gonzalez  https://github.com/Lucas-bit 
 
 Khalid Muhammad https://github.com/KhalidM53
 
