@@ -2,7 +2,7 @@
 Something lovely discovered by chance.
 
 
-![](Screen_Shot_2020-05-10_at_5.43.59_PM.png)
+![](Screen Shot 2020-05-10 at 5.43.59 PM.png)
 
 
 
